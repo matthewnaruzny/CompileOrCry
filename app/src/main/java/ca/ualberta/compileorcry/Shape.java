@@ -7,3 +7,4 @@ abstract public class Shape {
     String color = "i quit";
 
 }
+
