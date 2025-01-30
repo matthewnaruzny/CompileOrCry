@@ -6,3 +6,4 @@ abstract public class Shape {
     int y;
 
 }
+
